@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "650677466284",
+    "firebase_url": "https://mmplayer-19dd3.firebaseio.com",
+    "project_id": "mmplayer-19dd3",
+    "storage_bucket": "mmplayer-19dd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650677466284:android:e1251789b63b4d2f",
+        "android_client_info": {
+          "package_name": "com.example.tankorbox.myplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650677466284-uphv4g3rfioanuq3gkio0hjmrikbofa9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaTjaMFR-s88UVDouDQXCjT6tziLik1zs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
